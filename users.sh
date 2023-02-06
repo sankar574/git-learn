@@ -22,3 +22,4 @@ if [ $# -gt 0 ]; then
 else
     echo "you have entered $# params , please enter a input"
 fi
+ 
